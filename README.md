@@ -162,4 +162,4 @@ Cybersecurity mentors for guidance and inspiration
 
 🔍 Project Sphinx - Advancing cyber intelligence capabilities for a secure digital India. 🛡️
 
-Developer: Amit Kumar Chaudhary | BTech Cybersecurity | Aspiring Intelligence 
+Developer: Amit Kumar Chaudhary | BTech Cybersecurity | Aspiring Intelligence defender
