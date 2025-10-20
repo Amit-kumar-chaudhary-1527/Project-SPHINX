@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-10-20T16:28:15.265803",
+  "target": "example.com",
+  "whois": {
+    "target": "example.com",
+    "registrar": "RESERVED-Internet Assigned Numbers Authority",
+    "creation_date": "1995-08-14 04:00:00+00:00",
+    "expiration_date": "2026-08-13 04:00:00+00:00",
+    "name_servers": [
+      "A.IANA-SERVERS.NET",
+      "B.IANA-SERVERS.NET"
+    ],
+    "status": [
+      "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+      "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+      "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+    ],
+    "emails": null,
+    "dnssec": "signedDelegation",
+    "timestamp": "2025-10-20T16:28:18.067472"
+  },
+  "dns": {
+    "target": "example.com",
+    "a_records": [
+      "23.220.75.245",
+      "23.192.228.80",
+      "23.192.228.84",
+      "23.215.0.136",
+      "23.215.0.138",
+      "23.220.75.232"
+    ],
+    "mx_records": [
+      "0 ."
+    ],
+    "ns_records": [
+      "a.iana-servers.net.",
+      "b.iana-servers.net."
+    ],
+    "txt_records": [
+      "\"v=spf1 -all\"",
+      "\"_k2n1y4vw3qtb4skdx9e7dxt97qrmmq9\""
+    ],
+    "subdomains": []
+  }
+}
