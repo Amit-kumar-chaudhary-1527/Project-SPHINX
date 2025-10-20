@@ -1,20 +1,31 @@
-﻿# Project Sphinx - Advanced Intelligence Gathering System
+# 🔍 Project Sphinx - Advanced Intelligence Gathering System
 
-A professional OSINT tool for cybersecurity professionals and intelligence operations.
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
 
-## Features
-- WHOIS Intelligence Gathering
-- DNS Infrastructure Mapping
-- Shodan Vulnerability Assessment
-- Automated JSON Reporting
+A professional-grade Open Source Intelligence (OSINT) framework designed for cybersecurity professionals, penetration testers, and intelligence operations. Project Sphinx automates the collection and correlation of critical intelligence from multiple sources.
 
-## Usage
-\\\ash
-python sphinx_core.py -t example.com -o reports
-\\\
+## 🎯 Project Vision
 
-## Legal
-Use only on systems you own or have explicit permission to test.
+> "In the realm of cybersecurity, knowledge is the ultimate weapon. Project Sphinx represents my commitment to advancing India's cyber intelligence capabilities and contributing to national security."
 
-## Author
-Amit Kumar Chaudhary
+**Developer:** Amit Kumar Chaudhary | **BTech Cybersecurity Student**  
+**Goal:** To develop advanced tools for intelligence agencies and cyber defense operations
+
+## 🚀 Core Capabilities
+
+### 🔎 Multi-Source Intelligence Integration
+- **WHOIS Intelligence**: Comprehensive domain registration analysis
+- **DNS Infrastructure Mapping**: Complete network reconnaissance
+- **Shodan Vulnerability Assessment**: Real-time threat intelligence
+- **Automated Correlation**: Intelligent data cross-referencing
+
+### 📊 Advanced Reporting
+- **Structured JSON Reports**: Machine-readable intelligence data
+- **Executive Summaries**: Actionable intelligence insights
+- **Timeline Analysis**: Historical intelligence tracking
+- **Professional Documentation**: Enterprise-grade reporting
+
+## 🛠️ Technical Architecture
